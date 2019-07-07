@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/prefix1">
+        <file>favicon.ico</file>
+        <file>aHR0cDovL2ltZzIuaW1ndG4uYmRpbWcuY29tL2l0L3U9MjM5NzM1Nzc1MSwyMTc3Mjc1NzQ1JmZtPTI2JmdwPTAuanBn.jpg</file>
+        <file>IMG_4559.JPG</file>
+    </qresource>
+</RCC>
